@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "kind": "bulk-update",
+  "ts": "2026-05-18T08:11:27.282Z",
+  "actor": "raghava.kk@gmail.com",
+  "patch": {
+    "availability_status": "sold"
+  },
+  "requested_ids": [
+    55
+  ],
+  "rows": [
+    {
+      "id": 55,
+      "inventory_number": "RKK-IB2-005",
+      "series_id": 13,
+      "edition_id": null,
+      "edition_number": null,
+      "artist_proof": 0,
+      "ap_number": null,
+      "title": "Of definitions",
+      "slug": "of-definitions",
+      "year_start": 2023,
+      "year_end": null,
+      "medium_id": null,
+      "materials": null,
+      "height_in": 42,
+      "width_in": 24,
+      "depth_in": null,
+      "framed_height_in": null,
+      "framed_width_in": null,
+      "framed_depth_in": null,
+      "weight_kg": null,
+      "short_description": null,
+      "full_description": null,
+      "artist_note": null,
+      "internal_note": null,
+      "price_usd_cents": null,
+      "price_inr_paise": null,
+      "price_visible_public": 0,
+      "price_visible_dealer": 0,
+      "availability_status": "available",
+      "condition_status": "good",
+      "website_visible": 0,
+      "featured": 0,
+      "display_order": null,
+      "seo_title": null,
+      "seo_description": null,
+      "primary_image_id": null,
+      "is_archived": 0,
+      "archived_at": null,
+      "archived_reason": null,
+      "created_at": "2026-05-16 12:04:31",
+      "updated_at": "2026-05-16 18:15:40"
+    }
+  ]
+}
